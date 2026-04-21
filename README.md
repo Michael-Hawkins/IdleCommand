@@ -22,7 +22,7 @@ Progress by upgrading buildings and troops to increase gold and uranium generati
 ## How to Run
 
 ```bash
-python idlecommand.py
+python IdleCommand.py
 ```
 
 ## Save Data
